@@ -1,0 +1,8 @@
+Relatório Financeiro - JUN/2024
+SEG: 60%
+TER: 60%
+QUA: 40%
+QUI: 30%
+SEX: 10%
+SAB: 20%
+DOM: 50%

@@ -1,0 +1,9 @@
+-- Usuários para Login:
+
+-- Admin
+-- Login: admin
+-- Senha: senha123
+
+-- Funcionário
+-- Login: funcionario
+-- Senha: senha456
