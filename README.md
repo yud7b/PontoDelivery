@@ -16,7 +16,7 @@ Sistema de gerenciamento de pedidos de entrega desenvolvido em Java como parte d
 1. Importe o projeto no NetBeans/Eclipse
 2. Execute o script SQL (`database/pontodelivery.sql`)
 3. Configure as credenciais do banco em `ConexaoBD.java`
-4. Execute a classe `LoginView`
+4. Execute a classe `LoginView.java`
 
 ## Desenvolvedor
 Yudi Barreto  
