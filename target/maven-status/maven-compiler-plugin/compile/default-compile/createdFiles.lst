@@ -1,0 +1,10 @@
+com\mycompany\pontodelivery_etapa6\app\Main.class
+com\mycompany\pontodelivery_etapa6\PontoDelivery_Etapa6.class
+com\mycompany\pontodelivery_etapa6\model\ItemPedido.class
+com\mycompany\pontodelivery_etapa6\model\Usuario.class
+com\mycompany\pontodelivery_etapa6\repository\ProdutoRepository.class
+com\mycompany\pontodelivery_etapa6\repository\PedidoRepository.class
+com\mycompany\pontodelivery_etapa6\service\PedidoService.class
+com\mycompany\pontodelivery_etapa6\model\Pedido.class
+com\mycompany\pontodelivery_etapa6\service\ProdutoService.class
+com\mycompany\pontodelivery_etapa6\model\Produto.class
